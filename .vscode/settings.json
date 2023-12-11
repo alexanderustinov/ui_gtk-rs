@@ -1,0 +1,5 @@
+{
+    "terminal.integrated.env.windows": {
+        "PATH":"${env:PATH}C:\\gtk-build\\gtk\\x64\\release\\lib\\pkgconfig;C:\\gtk-build\\gtk\\x64\\release\\bin;"
+    }
+}
